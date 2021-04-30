@@ -42,5 +42,4 @@ extra:
   recipe-maintainers:
     - mxr-conda
     - oblute
-    - dcunn
     - benhuff
